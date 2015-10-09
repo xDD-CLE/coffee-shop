@@ -1,0 +1,2 @@
+= Build Status
+{<img src="https://travis-ci.org/xDD-CLE/coffee-shop.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/xDD-CLE/coffee-shop]
