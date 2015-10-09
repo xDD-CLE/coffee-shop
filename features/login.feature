@@ -1,3 +1,4 @@
+@javascript
 Feature: Loggin' in to the hella sweet coffee shop app
 
 	Scenario: Happy path login
