@@ -1,5 +1,4 @@
-require 'capybara'
-include Capybara::DSL
+require 'capybara/cucumber'
 
 Capybara.configure do |config|
 	config.run_server = false
