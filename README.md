@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/xDD-CLE/coffee-shop.png?label=ready&title=Ready)](https://waffle.io/xDD-CLE/coffee-shop)  [![Build Status](https://travis-ci.org/xDD-CLE/coffee-shop.svg?branch=master)](https://travis-ci.org/xDD-CLE/coffee-shop)  
+[![Stories in Ready](https://badge.waffle.io/xDD-CLE/coffee-shop.png?label=ready&title=Ready)](https://waffle.io/xDD-CLE/coffee-shop)  [![Build Status](https://travis-ci.org/xDD-CLE/coffee-shop.svg?branch=master)](https://travis-ci.org/xDD-CLE/coffee-shop) [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://gitter.im/xDD-CLE/coffee-shop)
 
 ## What's Coffee Shop?  
 Right now, a bad name. We should probably think of something mo' clever.  For the time being, think something like [UNTAPPED](https://untappd.com/) for coffee drinkers. It'll be a place where you can check in to local coffee shops, rate the coffee you enjoy (or don't enjoy), comment on what others are drinking, etc...
