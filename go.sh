@@ -1,3 +1,7 @@
 #!/bin/bash
 
-bundle exec cucumber
+set -e
+
+./gradlew test
+
+bundle exec cucumber --tags ~@wip
