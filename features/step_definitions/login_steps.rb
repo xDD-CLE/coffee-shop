@@ -14,7 +14,6 @@ When(/^I attempt to login with the wrong account credentials$/) do
 	  pending # Write code here that turns the phrase above into concrete actions
 end
 
-Then(/^I'm told that I'm unable to login with my credentials$/) do
+Then(/^I'm told that I'm unable to login$/) do
 	  pending # Write code here that turns the phrase above into concrete actions
 end
-

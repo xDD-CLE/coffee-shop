@@ -1,4 +1,4 @@
 def on(page)
 	visit(page.url)
-	page
+	page.new
 end
