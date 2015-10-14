@@ -1,11 +1,7 @@
-language: ruby
-rvm:
-    - 2.2.1
+language: java 
 
-addons:
-    apt:
-        packages:
-            - oraclejdk8
+jdk:
+   - oraclejdk8
 
 before_script:
     - export DISPLAY=:99.0
