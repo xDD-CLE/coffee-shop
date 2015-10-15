@@ -7,7 +7,7 @@ When(/^I login with my account credentials$/) do
 end
 
 Then(/^I'm able to see my coffee shop dashboard$/) do
-	  pending # Write code here that turns the phrase above into concrete actions
+  should_be_on_the(DashBoardPage).with_dashboard_details_visible_for(@user_account)
 end
 
 When(/^I attempt to login with the wrong account credentials$/) do

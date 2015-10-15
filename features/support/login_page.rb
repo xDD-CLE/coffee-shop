@@ -3,8 +3,9 @@ class LoginPage
 
 	def login_with(user)
 		within('#login') do
-			fill_in 'Email', :with => user.username
-			fill_in 'Password', :with => user.password
+			fill_in 'email', :with => user.username
+			fill_in 'password', :with => user.password
+			click_on 'Submit'
 		end
 	end
 
